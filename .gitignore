@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# VSCode configuration
+.vscode/
+
+# Editor-specific files
+*.swp
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Other sensitive files
+config.js
+
+# IDE settings
+.idea/
+*.iml
+
+# Mac-specific files
+.DS_Store
